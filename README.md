@@ -2,7 +2,7 @@
 ### **30412 - Machine Learning @ Università Commerciale L. Bocconi**  
 _2021 Individual Project for the BEMACS course_
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tommasoghisini/FinancialTimeSeriesForecasting/blob/04565b97afe729c515df277316683ab423bafe70/TimeSeries_Forecasting.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tommasoghisini/IndividualAssignment30412/blob/main/Notebook.ipynb)
 
 
 ### Author
